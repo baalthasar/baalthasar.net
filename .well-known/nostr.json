@@ -1,0 +1,13 @@
+{
+  "names": {
+    "me": "04b642080c467de503948e8eeaaf8695e5cc28828a8cf3da94ec2214a16e4009"
+  },
+  "relays": {
+    "04b642080c467de503948e8eeaaf8695e5cc28828a8cf3da94ec2214a16e4009": [
+      "wss://relay.damus.io/",
+      "wss://purplerelay.com/",
+      "wss://nos.lol/",
+      "wss://social.protest.net/relay"
+    ]
+  }
+}
